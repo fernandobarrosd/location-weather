@@ -1,10 +1,11 @@
-package com.fernando.locationweather
+package com.fernando.locationweather.ui
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import com.fernando.locationweather.R
 import com.fernando.locationweather.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
