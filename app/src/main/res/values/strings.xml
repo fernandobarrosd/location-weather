@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Location Weather</string>
+    <string name="day_of_week_string">Segunda-feira</string>
+    <string name="temperature_string">20º</string>
+    <string name="location_string">São Paulo/SP</string>
+    <string name="day_of_week_short_name_string">Seg</string>
 </resources>

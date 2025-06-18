@@ -38,6 +38,14 @@ android {
 }
 
 dependencies {
+    //AndroidX Activity KTX
+    implementation libs.androidx.activityKtx
+
+    //AndroidX Fragment KTX
+    implementation libs.androidx.fragmentKtx
+
+    //AndroidX Lifecycle ViewModel KTX
+    implementation libs.androidx.lifecycleViewmodelKtx
 
     implementation libs.androidx.core.ktx
     implementation libs.androidx.appcompat
